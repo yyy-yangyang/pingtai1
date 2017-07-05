@@ -1,0 +1,378 @@
+
+.mianer_student{
+	width: 900px;
+	height: 1900px;
+	margin: 0px auto;
+}
+
+#q,#w,#e,#r,#t{
+	color:rgba(195,176,145,1);
+}
+#q:hover,#w:hover,#e:hover,#r:hover,#t:hover{
+	color:#23b841; 
+}
+#w{
+	color:#23b841;  
+}
+.mianer_student_container{
+	width: 1200px;
+	height: 300px;
+	margin: 10px auto;
+}
+.mianer_student .mianer_student_moive{
+	position: relative;
+	width: 800px;
+	height: 500px;
+	margin: 15px auto;
+
+}
+.mianer_student .mianer_student_moive .mianer_student_font{
+	position: relative;
+	width: 800px;
+	height: 50px;
+}
+#movie_font{
+	position: absolute;
+	left: 710px;
+	bottom: -50px;
+	font-weight: bold;
+}
+#movie_one{
+	position: absolute;
+}
+.mianer_student .mianer_student_moive a{
+	font-size: 13px;
+	text-decoration: none;
+	color: #000;
+    margin-top: 10px;
+}
+.mianer_student .mianer_student_moive .mianer_student_moive_flie{
+	width: 800px;
+	height: 350px;
+	position: relative;
+    margin: 140px 10px 10px 40px;
+
+}
+/*电影*/
+.mianer_student .mianer_student_moive .mianer_student_moive_flie ul .mianer_student_moive_flie_one{
+	margin: 10px 20px 30px 10px;
+	float: left;
+	list-style: none;
+	width: 150px;
+	height: 120px;
+
+}
+.mianer_student .mianer_student_moive .mianer_student_moive_flie ul .mianer_student_moive_flie_two{
+	margin: 10px 20px 30px 10px;
+	float: left;
+	list-style: none;
+	width: 150px;
+	height: 120px;
+
+}
+.mianer_student .mianer_student_moive .mianer_student_moive_flie ul .mianer_student_moive_flie_three{
+	margin: 10px 20px 30px 10px;
+	float: left;
+	list-style: none;
+	width: 150px;
+	height: 120px;
+
+}
+.mianer_student .mianer_student_moive .mianer_student_moive_flie ul .mianer_student_moive_flie_four{
+	margin: 10px 20px 30px 10px;
+	float: left;
+	list-style: none;
+	width: 150px;
+	height: 120px;
+
+}
+.mianer_student .mianer_student_moive .mianer_student_moive_flie ul .mianer_student_moive_flie_five{
+	margin: 10px 20px 30px 10px;
+	float: left;
+	list-style: none;
+	width: 150px;
+	height: 120px;
+
+}
+.mianer_student .mianer_student_moive .mianer_student_moive_flie ul .mianer_student_moive_flie_six{
+	margin: 10px 20px 30px 10px;
+	float: left;
+	list-style: none;
+	width: 150px;
+	height: 120px;
+
+}
+.mianer_student .mianer_student_moive .mianer_student_moive_flie ul .mianer_student_moive_flie_seven{
+	margin: 10px 20px 30px 10px;
+	float: left;
+	list-style: none;
+	width: 150px;
+	height: 120px;
+
+}
+.mianer_student .mianer_student_moive .mianer_student_moive_flie ul .mianer_student_moive_flie_eight{
+	margin: 10px 20px 30px 10px;
+	float: left;
+	list-style: none;
+	width: 150px;
+	height: 120px;
+
+}
+
+
+/*电影结束*/
+.mianer_student .mianer_student_moive .mianer_student_moive_flie .mianer_student_moive_flie_font{
+    margin-left: 55px;
+}
+.mianer_student .mianer_student_picture .mianer_student_picture_font{
+	position: relative;
+	width: 800px;
+	height: 500px;
+	margin:-190px 0 0 50px;
+}
+
+.mianer_student .mianer_student_picture .mianer_student_picture_font a{
+	position: absolute;
+	font-size: 13px;
+	text-decoration: none;
+	color: #000;
+	margin: 333px 10px 10px 710px;
+	font-weight: bold;
+}
+
+#photograph{
+	position: absolute;
+	top: 250px;
+}
+.mianer_student .mianer_student_picture_flie{
+	position: relative;
+	width: 800px;
+	height: 270px;
+	background:#E8E8E8;
+	margin: -50px auto;
+
+
+}
+.mianer_student .mianer_student_picture_flie ul li{
+	list-style: none;
+}
+.mianer_student .mianer_student_picture_flie .mianer_student_picture_flie_one{
+	width: 250px;
+	height: 250px;
+	background: red; 
+	float: left;
+	margin: 10px 5px 5px 10px;
+	opacity: 0.7;
+}
+.mianer_student .mianer_student_picture_flie .mianer_student_picture_flie_one:hover{
+	-webkit-transform:scale(1.1);
+    -moz-transform:scale(1.1);
+    -o-transform:scale(1.1);
+    -transform:scale(1.1);
+    transition:all 0.5s;
+    -webkit-transform:all 1s;
+    -o-transform:all 1s;
+    -moz-transform:all 1s;
+    opacity: 1;
+}
+.mianer_student .mianer_student_picture_flie .mianer_student_picture_flie_two{
+	width: 145px;
+	height: 150px;
+	background: gray; 
+	float: left;
+	margin: 10px 5px 5px 0;
+	opacity: 0.7;
+}
+.mianer_student .mianer_student_picture_flie .mianer_student_picture_flie_two:hover{
+	-webkit-transform:scale(1.1);
+    -moz-transform:scale(1.1);
+    -o-transform:scale(1.1);
+    -transform:scale(1.1);
+    transition:all 0.5s;
+    -webkit-transform:all 1s;
+    -o-transform:all 1s;
+    -moz-transform:all 1s;
+    opacity: 1;
+}
+.mianer_student .mianer_student_picture_flie .mianer_student_picture_flie_three{
+	width: 220px;
+	height: 100px;
+	background: red; 
+	float: left;
+    margin: 10px 0 5px 0;
+    opacity: 0.7;
+}
+.mianer_student .mianer_student_picture_flie .mianer_student_picture_flie_three:hover{
+	-webkit-transform:scale(1.1);
+    -moz-transform:scale(1.1);
+    -o-transform:scale(1.1);
+    -transform:scale(1.1);
+    transition:all 0.5s;
+    -webkit-transform:all 1s;
+    -o-transform:all 1s;
+    -moz-transform:all 1s;
+    opacity: 1;
+}
+.mianer_student .mianer_student_picture_flie .mianer_student_picture_flie_four{
+	width: 150px;
+	height: 250px;
+	background: red;
+	float: right; 
+	margin: 10px 10px 5px 5px;
+	opacity: 0.7;
+}
+.mianer_student .mianer_student_picture_flie .mianer_student_picture_flie_four:hover{
+	-webkit-transform:scale(1.1);
+    -moz-transform:scale(1.1);
+    -o-transform:scale(1.1);
+    -transform:scale(1.1);
+    transition:all 0.5s;
+    -webkit-transform:all 1s;
+    -o-transform:all 1s;
+    -moz-transform:all 1s;
+    opacity: 1;
+}
+.mianer_student .mianer_student_picture_flie .mianer_student_picture_flie_five{
+	width: 220px;
+	height: 145px;
+	background: red;
+	float: right; 
+	opacity: 0.7;
+}
+.mianer_student .mianer_student_picture_flie .mianer_student_picture_flie_five:hover{
+	-webkit-transform:scale(1.1);
+    -moz-transform:scale(1.1);
+    -o-transform:scale(1.1);
+    -transform:scale(1.1);
+    transition:all 0.5s;
+    -webkit-transform:all 1s;
+    -o-transform:all 1s;
+    -moz-transform:all 1s;
+    opacity: 1;
+}
+.mianer_student .mianer_student_picture_flie .mianer_student_picture_flie_six{
+	width: 145px;
+	height: 95px;
+	background: red; 
+	float: left;
+	opacity: .7;
+}
+.mianer_student .mianer_student_picture_flie .mianer_student_picture_flie_six:hover{
+	-webkit-transform:scale(1.1);
+    -moz-transform:scale(1.1);
+    -o-transform:scale(1.1);
+    -transform:scale(1.1);
+    transition:all 0.5s;
+    -webkit-transform:all 1s;
+    -o-transform:all 1s;
+    -moz-transform:all 1s;
+    opacity: 1;
+}
+/*摄影 结束*/
+/*社团 开始*/
+.mianer_student .mianer_student_shetuan{
+	position: relative;
+	width: 800px;
+	height: 500px;
+	margin: 150px auto;
+}
+#shetuan{
+	position: relative;
+	top: 40px;
+}
+#shetuan_one{
+	position: absolute;
+	font-weight: bold;
+	top: 98px;
+	left: 680px;
+}
+.mianer_student .mianer_student_shetuan .mianer_student_font{
+	position: relative;
+	width: 800px;
+	height: 50px;
+}
+
+.mianer_student .mianer_student_shetuan a{
+	font-size: 14px;
+	text-decoration: none;
+	color: #000;
+	
+	margin:4px 0 0 -10px;
+	font-family: "宋体"
+}
+.mianer_student .mianer_student_shetuan .mianer_student_shetuan_flie{
+	width: 750px;
+	height: 350px;
+	position: absolute;
+	margin-top: 80px;
+}
+
+.mianer_student .mianer_student_shetuan .mianer_student_shetuan_flie ul .mianer_student_shetuan_flie_one{
+	margin: 10px 20px 30px 10px;
+	float: left;
+	list-style: none;
+	width: 150px;
+	height: 120px;
+
+}
+.mianer_student .mianer_student_shetuan .mianer_student_shetuan_flie ul .mianer_student_shetuan_flie_two{
+	margin: 10px 20px 30px 10px;
+	float: left;
+	list-style: none;
+	width: 150px;
+	height: 120px;
+
+}
+.mianer_student .mianer_student_shetuan .mianer_student_shetuan_flie ul .mianer_student_shetuan_flie_three{
+	margin: 10px 20px 30px 10px;
+	float: left;
+	list-style: none;
+	width: 150px;
+	height: 120px;
+
+}
+.mianer_student .mianer_student_shetuan .mianer_student_shetuan_flie ul .mianer_student_shetuan_flie_four{
+	margin: 10px 20px 30px 10px;
+	float: left;
+	list-style: none;
+	width: 150px;
+	height: 120px;
+
+}
+.mianer_student .mianer_student_shetuan .mianer_student_shetuan_flie ul .mianer_student_shetuan_flie_five{
+	margin: 10px 20px 30px 10px;
+	float: left;
+	list-style: none;
+	width: 150px;
+	height: 120px;
+
+}
+.mianer_student .mianer_student_shetuan .mianer_student_shetuan_flie ul .mianer_student_shetuan_flie_six{
+	margin: 10px 20px 30px 10px;
+	float: left;
+	list-style: none;
+	width: 150px;
+	height: 120px;
+
+}
+.mianer_student .mianer_student_shetuan .mianer_student_shetuan_flie ul .mianer_student_shetuan_flie_seven{
+	margin: 10px 20px 30px 10px;
+	float: left;
+	list-style: none;
+	width: 150px;
+	height: 120px;
+
+}
+.mianer_student .mianer_student_shetuan .mianer_student_shetuan_flie ul .mianer_student_shetuan_flie_eight{
+	margin: 10px 20px 30px 10px;
+	float: left;
+	list-style: none;
+	width: 150px;
+	height: 120px;
+
+}
+.mianer_student .mianer_student_shetuan .mianer_student_shetuan_flie_font{
+	display: inline-block;
+	font-weight: bold;
+	margin-left:50px;	
+}

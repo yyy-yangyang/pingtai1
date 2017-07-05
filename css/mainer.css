@@ -1,0 +1,232 @@
+.mianer{
+	width: 1000px;
+	height: 1200px;
+	margin: 0 auto;
+    position: relative;
+   
+}
+.mianer .lunbo{
+	height: 400px;
+	width: 900px;
+    margin: 0 auto;
+}
+.mianer .new{
+    width: 1000px;
+    height: 700px;
+    position: absolute;
+    top: 35%;
+    margin:0 auto;
+}
+
+.mianer .new .new_right{ /*new_right start*/
+	width: 473px;
+	height: 350px;
+	float: left;
+	margin-top: 20px;
+}
+.mianer .new .new_right .new_right_top{
+	width: 473px;
+	height: 100px;
+	
+}
+.mianer .new .new_right .new_right_top img{
+   position: absolute;
+
+   top: -50px;
+   right: 285px;
+   z-index: 10;	
+ 
+}
+.mianer .new .new_right .new_right_top span{
+	position: absolute;
+	right:470px;
+	top: 60px;
+	font-size: 28px;
+	font-weight: bold;
+    font-family: "萝莉体";
+    z-index: 11;
+}
+.mianer .new .new_right .new_right_top .new_one{
+    position: absolute;
+    right: 415px;
+    top: 67px;
+    font-size: 18px;
+    font-family: "萝莉体";	
+    z-index: 12;
+}
+.mianer .new .new_right .new_right_top .new_two{
+	position: absolute;
+	right: 165px;
+	top: 78px;
+	font-size: 14px;
+	font-family: 宋体;
+	z-index: 100;
+    color: 	#696969;
+}
+
+.mianer .new .new_right .new_right_top .sky{
+	position: absolute;
+	top: 15px;	
+	right: 105px;
+	z-index: 1;
+}
+.mianer .new .new_right .new_right_top .new_two:hover{
+	color: 	#696969;
+}
+.mianer .new .new_right .new_right_middle{
+	width: 450px;
+	height: 250px;
+	top: 115px;
+	position: absolute;
+	z-index: 10;
+	background: rgba(92,172,238,0.3);
+	-webkit-box-shadow:0 0 10px rgba(0, 204, 204, .2);  
+    -moz-box-shadow:0 0 10px rgba(0, 204, 204, .2);  
+     box-shadow:0 0 10px rgba(0, 204, 204, .2);  
+}
+.mianer .new .new_right .new_right_middle a {
+	color:	#CD0000;
+    font-size: 22px;
+	font-family: "萝莉体";
+	float: left;
+	z-index: 10000000000;
+	height: 40px;
+	position: absolute;
+	top: 10px;
+	letter-spacing: -2PX;
+}
+.mianer .new .new_right .new_right_middle p{
+	font-size: 5px;
+	color: #2F4F4F;
+	position: absolute;
+	top: 45px;
+}
+.mianer .new .new_right .new_right_bottom ul ol a{
+	z-index: 9999;
+	font-family: "萝莉体";
+	float: left;
+	position: relative;
+	top: 90px;
+	color:	#363636; 
+	margin-top: 8px;
+}
+.mianer .new .new_right .new_right_bottom ul ol a:hover{
+	color: #ff0;/*new_right end*/
+}
+.mianer .new .inform{  /*inform start*/
+	width: 400px;
+	height: 300px;
+	
+	float: left;
+	margin: 50px;
+}
+.mianer .new .inform .inform_title {
+	height: 40px;
+	border-bottom:1px solid #483D8B;
+	
+}
+.mianer .new .inform .inform_title .inform_title_one{
+	width: 70%;
+    line-height: 40px;
+    float: left;
+    padding-left: 10px;
+    font-family: "萝莉体";
+}
+.mianer .new .inform .inform_title a{
+	float: right;
+	line-height: 40px;
+	font-size: 1rem;
+    color:	#696969;
+}
+.mianer .new .inform .inform_bigtext{
+    width: 100%;
+    height: 50px;
+    margin-top: 10px;
+    background: rgba(92,172,238,0.3);
+	-webkit-box-shadow:0 0 10px rgba(0, 204, 204, .2);  
+    -moz-box-shadow:0 0 10px rgba(0, 204, 204, .2);  
+     box-shadow:0 0 10px rgba(0, 204, 204, .2);  
+    
+}
+.mianer .new .inform .inform_bigtext a{
+	float: left;
+	font-family: "萝莉体";
+	line-height: 50px;
+	color: red;
+}
+.mianer .new .inform .inform_bigtext a:hover{
+	color: 	#0000FF;
+}
+.mianer .new .inform .inform_text a{
+	color: #383838;
+	line-height: 35px;
+	font-family: "萝莉体";
+}
+.mianer .new .inform .inform_text{
+	background: rgba(92,172,238,0.3);
+	-webkit-box-shadow:0 0 10px rgba(0, 204, 204, .2);  
+    -moz-box-shadow:0 0 10px rgba(0, 204, 204, .2);  
+     box-shadow:0 0 10px rgba(0, 204, 204, .2);  
+}
+.mianer .new .inform .inform_text a:hover{
+ /*inform end*/
+	color: 	#0000FF;
+}
+.mianer .new .media{ /*media start*/
+	width: 400px;
+	height: 300px;
+	
+	float: left;
+	margin: 50px;
+}
+.mianer .new .media .media_title{
+	height: 40px;
+	border-bottom:1px solid #483D8B;
+}
+.mianer .new .media .media_title .media_title_one{
+	width: 70%;
+    line-height: 40px;
+    float: left;
+    padding-left: 10px;
+    font-family: "萝莉体";
+}
+.mianer .new .media .media_title a{
+	float: right;
+	line-height: 40px;
+	font-size: 1rem;
+    color:	#696969;
+}
+.mianer .new .media .media_bigtext{
+    width: 100%;
+    height: 50px;
+    margin-top: 10px;
+    background: rgba(92,172,238,0.3);
+	-webkit-box-shadow:0 0 10px rgba(0, 204, 204, .2);  
+    -moz-box-shadow:0 0 10px rgba(0, 204, 204, .2);  
+     box-shadow:0 0 10px rgba(0, 204, 204, .2);  
+    
+}
+.mianer .new .media .media_bigtext a{
+	float: left;
+	font-family: "萝莉体";
+	line-height: 50px;
+	color: red;
+}
+.mianer .new .media .media_bigtext a:hover{
+	color: 	#0000FF;
+}
+.mianer .new .media .media_text a{
+	color: #383838;
+	line-height: 35px;
+	font-family: "萝莉体";
+}
+.mianer .new .media .media_text{
+	background: rgba(92,172,238,0.3);
+	-webkit-box-shadow:0 0 10px rgba(0, 204, 204, .2);  
+    -moz-box-shadow:0 0 10px rgba(0, 204, 204, .2);  
+     box-shadow:0 0 10px rgba(0, 204, 204, .2);  
+}
+.mianer .new .media .media_text a:hover{
+	color: 	#0000FF;/*media end*/
+}
+

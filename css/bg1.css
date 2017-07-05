@@ -1,0 +1,7 @@
+.bg
+    {
+    background: url(../images/bg1.jpg);
+    background-repeat:no-repeat ;
+    z-index: -11111;
+    background-attachment: fixed;"
+    }

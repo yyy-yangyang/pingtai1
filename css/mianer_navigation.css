@@ -1,0 +1,55 @@
+*{text-decoration: none;}
+.mianer_navigation{
+	width: 1000px;
+	height:1100px;
+	background: white;
+	margin: 0 auto; 
+}
+
+
+#wangzhan{ 
+  display: block;
+  font-size: 19px;
+  font-weight: bold;
+  margin:50px 20px 0 260px ;
+  position: absolute;
+  font-family: "萝莉体";
+  color:#000;
+ }
+ .mianer_navigation .mianer_navigation_logo{
+  width: 600px;
+  height: 50px;
+  margin: 10px auto;
+ }
+ .mianer_navigation .mianer_navigation_box{
+ 	width: 800px;
+ 	height: 700px;
+ 	background: rgba(255,255,255,.4);
+ 	margin: 130px 0 0 100px;
+    padding: 10px;
+ }
+ #wangzhandaohan{
+  color: #23b841;
+ }
+ .mianer_navigation .mianer_navigation_student .student_logo,
+ .mianer_navigation .mianer_navigation_eating .eating_logo,
+ .mianer_navigation .mianer_navigation_serve .serve_logo{
+ 	font-family: "萝莉体";
+ 	font-size: 18px;
+  border-radius: 10px;
+  -webkit-box-shadow:inset 0 0 10px #0CC; 
+  -moz-box-shadow:inset 0 0 10px #0CC;  
+  box-shadow:inset 0 0 10px #0CC; 
+  margin: 40px;	
+ }
+ #table_one{
+    margin:40px;
+ }
+ .mianer_navigation .mianer_navigation_student a,
+ .mianer_navigation .mianer_navigation_eating a,
+ .mianer_navigation .mianer_navigation_serve a{
+ 	margin-left: 80px;
+ 	color:	#363636;
+ }
+
+ 

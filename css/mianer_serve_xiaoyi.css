@@ -1,0 +1,46 @@
+.mianer_serve_xiaoyi{
+	position: relative;
+	width: 799px;
+	height: 800px;
+	margin: 0px auto;
+	border-radius: 10px;
+ 
+}
+#shenghuofuwu{
+    color: #ff0;
+}
+.mianer_serve_xiaoyi .mianer_serve_xiaoyi_lie ul li{
+    list-style: none;
+    display: inline-block;
+    font-size: 13px;
+    color: #1c1f22;
+}
+.mianer_serve_xiaoyi .mianer_serve_xiaoyi_lie ul li a{
+    text-decoration: none;
+    color: #1c1f22;
+}
+.mianer_serve_xiaoyi .mianer_serve_from .imagetable {
+    margin: 40px auto;
+    font-family: verdana,arial,sans-serif;
+    font-size:11px;
+    color:#333333;
+    border-width: 1px;
+    border-color: #999999;
+    border-collapse: collapse;
+    
+}
+.mianer_serve_xiaoyi .mianer_serve_from .imagetable th {
+    background: url('../images/cell-blue.jpg');
+    border-width: 1px;
+    padding: 8px;
+    border-style: solid;
+    border-color: #999999;
+}
+.mianer_serve_xiaoyi .mianer_serve_from .imagetable td {
+    background: url('../images/cell-grey.jpg');
+    border-width: 1px;
+    padding: 8px;
+    border-style: solid;
+    border-color: #999999;
+}
+

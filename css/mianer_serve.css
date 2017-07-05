@@ -1,0 +1,260 @@
+.mianer_serve{
+	position: relative;
+	width: 799px;
+	height: 900px;
+	margin: 00px auto;
+	border-radius: 10px;
+
+}
+.mianer_serve .mianer_serve_images{
+	display: block;
+	margin: 100px auto;
+	position: absolute;
+}
+#shenghuofuwu{
+    color: #23b841;
+}
+.serve_logo img{
+	position: relative;
+	left: 38%;	
+}
+.serve_logo p{
+	font-family: "萝莉体";
+	font-size: 20px;
+	position: absolute;
+	left: 45%;
+	top: 27%;
+}
+.mianer_serve a{
+	position: relative;
+	font-family: "萝莉体";
+	font-size: 20px;
+    text-decoration: none;
+    line-height: 200px;
+    left:28%;
+    color:#000;
+}
+.mianer_serve span{
+	-moz-transition: all 1s;
+    -o-transition: all 1s;
+    -webkit-transition: all 1s;
+    transition: all 1s;
+}
+.mianer_serve span:hover{
+	background:rgba(0,245,255,1);
+	transform:rotate(360deg) scale(0.9);
+	-ms-transform:rotate(360deg) scale(0.9); /* IE 9 */
+	-webkit-transform:rotate(360deg) scale(0.9); /* Safari and Chrome */
+	-o-transform:rotate(360deg) scale(0.9);
+	
+}
+.mianer_serve a:hover{
+	color: red;
+}
+.mianer_serve .serve_one{
+	position: relative;
+	display: block;
+	width: 199px;
+    height: 200px;
+    background:#CD00CD;
+    border-top-left-radius: 10px; 
+    border-right: 1px solid #FFFFF0;
+    float: left;
+    -webkit-box-shadow:inset 0 0 10px #000;  
+    -moz-box-shadow:inset 0 0 10px #000;  
+    box-shadow:inset 0 0 10px #000;  
+}
+
+.mianer_serve .serve_two{
+	position: relative;
+	display: block;
+	width: 199px;
+    height: 200px;
+    background:#76ee00;
+    float: left;
+    border-right: 1px solid #FFFFF0;
+    -webkit-box-shadow:inset 0 0 10px #000;  
+    -moz-box-shadow:inset 0 0 10px #000;  
+    box-shadow:inset 0 0 10px #000;
+}
+.mianer_serve .serve_three{
+	position: relative;
+	display: block;
+	width: 199px;
+    height: 200px;
+    background: #1E90ff;
+    float: left;
+    border-right: 1px solid #FFFFF0;
+    -webkit-box-shadow:inset 0 0 10px #000;  
+    -moz-box-shadow:inset 0 0 10px #000;  
+    box-shadow:inset 0 0 10px #000;
+}
+.mianer_serve .serve_four{
+	position: relative;
+	display: block;
+	width: 199px;
+    height: 200px;
+    background:#ff3e96; 
+    float: left;
+    border-top-right-radius: 10px;
+    -webkit-box-shadow:inset 0 0 10px #000;  
+    -moz-box-shadow:inset 0 0 10px #000;  
+    box-shadow:inset 0 0 10px #000;
+}
+.mianer_serve .serve_five{
+	position: relative;
+	display: block;
+	width: 199px;
+    height: 200px;
+    background:#FFFF00;
+    float: left;
+    border-top:  1px solid #FFFFF0;
+    border-right:  1px solid #FFFFF0;
+    -webkit-box-shadow:inset 0 0 10px #000;  
+    -moz-box-shadow:inset 0 0 10px #000;  
+    box-shadow:inset 0 0 10px #000;
+}
+.mianer_serve .serve_six{
+	position: relative;
+	display: block;
+	width: 199px;
+    height: 200px;
+    background:#E0FFFF;
+    float: left;
+    border-top:  1px solid #FFFFF0;
+    border-right:  1px solid #FFFFF0;
+    -webkit-box-shadow:inset 0 0 10px #000;  
+    -moz-box-shadow:inset 0 0 10px #000;  
+    box-shadow:inset 0 0 10px #000;
+}
+.mianer_serve .serve_seven{
+	position: relative;
+	display: block;
+	width: 199px;
+    height: 200px;
+    background:#8B658B;
+    float: left;
+    border-top:  1px solid #FFFFF0;
+    border-right:  1px solid #FFFFF0;
+    -webkit-box-shadow:inset 0 0 10px #000;  
+    -moz-box-shadow:inset 0 0 10px #000;  
+    box-shadow:inset 0 0 10px #000;
+}
+.mianer_serve .serve_eight{
+	position: relative;
+	display: block;
+	width: 199px;
+    height: 200px;
+    background:#CD5C5C;
+    float: left;
+    border-top:  1px solid #FFFFF0;
+    -webkit-box-shadow:inset 0 0 10px #000;  
+    -moz-box-shadow:inset 0 0 10px #000;  
+    box-shadow:inset 0 0 10px #000;
+    
+}
+.mianer_serve .serve_nine{
+	position: relative;
+	display: block;
+	width: 199px;
+    height: 200px;
+    background:	#8968CD;
+    float: left;
+    border-top:  1px solid #FFFFF0;
+    border-right:  1px solid #FFFFF0;
+    -webkit-box-shadow:inset 0 0 10px #000;  
+    -moz-box-shadow:inset 0 0 10px #000;  
+    box-shadow:inset 0 0 10px #000;
+}
+.mianer_serve .serve_ten{
+	position: relative;
+	display: block;
+	width: 199px;
+    height: 200px;
+    background: #CD2990;
+    float: left;
+    border-top:  1px solid #FFFFF0;
+    border-right:  1px solid #FFFFF0;
+    -webkit-box-shadow:inset 0 0 10px #000;  
+    -moz-box-shadow:inset 0 0 10px #000;  
+    box-shadow:inset 0 0 10px #000;
+}
+.mianer_serve .serve_eleven{
+	position: relative;
+	display: block;
+	width: 199px;
+    height: 200px;
+    background:#8B3626;
+    float: left;
+    border-top:  1px solid #FFFFF0;
+    border-right:  1px solid #FFFFF0;
+    -webkit-box-shadow:inset 0 0 10px #000;  
+    -moz-box-shadow:inset 0 0 10px #000;  
+    box-shadow:inset 0 0 10px #000;	
+}
+.mianer_serve .serve_twelve{
+	position: relative;
+	display: block;
+	width: 199px;
+    height: 200px;
+    background:#E6E6FA;
+    float: left;
+    border-top:  1px solid #FFFFF0;
+    -webkit-box-shadow:inset 0 0 10px #000;  
+    -moz-box-shadow:inset 0 0 10px #000;  
+    box-shadow:inset 0 0 10px #000;	
+}
+.mianer_serve .serve_thirteen{
+    position: relative;
+    display: block;
+    width: 199px;
+    height: 200px;
+    background: #9400D3;
+    float: left;
+    border-bottom-left-radius: 10px;
+    border-top:  1px solid #FFFFF0;
+    border-right:  1px solid #FFFFF0;
+    -webkit-box-shadow:inset 0 0 10px #000;  
+    -moz-box-shadow:inset 0 0 10px #000;  
+    box-shadow:inset 0 0 10px #000; 
+}
+.mianer_serve .serve_fourteen{
+    position: relative;
+    display: block;
+    width: 199px;
+    height: 200px;
+    background: #FF6347;
+    float: left;
+    border-top:  1px solid #FFFFF0;
+    border-right:  1px solid #FFFFF0;
+    -webkit-box-shadow:inset 0 0 10px #000;  
+    -moz-box-shadow:inset 0 0 10px #000;  
+    box-shadow:inset 0 0 10px #000; 
+}
+.mianer_serve .serve_fifteen{
+    position: relative;
+    display: block;
+    width: 199px;
+    height: 200px;
+    background: #20B2AA;
+    float: left;
+    border-top:  1px solid #FFFFF0;
+    border-right:  1px solid #FFFFF0;
+    -webkit-box-shadow:inset 0 0 10px #000;  
+    -moz-box-shadow:inset 0 0 10px #000;  
+    box-shadow:inset 0 0 10px #000; 
+}
+.mianer_serve .serve_sixteen{
+    position: relative;
+    display: block;
+    width: 199px;
+    height: 200px;
+    background:#6A5ACD;
+    float: left;
+    border-bottom-right-radius: 10px;
+    border-top:  1px solid #FFFFF0;
+    -webkit-box-shadow:inset 0 0 10px #000;  
+    -moz-box-shadow:inset 0 0 10px #000;  
+    box-shadow:inset 0 0 10px #000; 
+}
+

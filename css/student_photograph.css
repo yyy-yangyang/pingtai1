@@ -1,0 +1,43 @@
+.mainer_photograph{
+	width: 1000px;
+	height: 700px;
+	margin: 10px auto;
+	position: relative;
+}
+.mainer_photograph .mainer_photograph_font ul li{
+    list-style: none;
+    float: left;
+    color: #000;
+    font-size: 14px;
+}
+#w{
+	color: 	#FFFF00;
+}
+.mainer_photograph .mainer_photograph_font ul li a{
+	text-decoration: none;
+	color: #000;
+	font-size: 14px;
+}
+.mainer_photograph_content{
+	width: 900px;
+	height: 400px;
+	margin:30px auto;
+	position: absolute;
+
+}
+.mainer_photograph_content ul li {
+	float: left;
+	list-style: none;
+    margin: 30px 10px 10px 10px;
+}
+.mainer_photograph_content ul li p{
+	position: absolute;
+	display: inline-block;
+	margin: 99px 10px 0px -150px;
+	width: 150px;
+	text-decoration: none;
+	background: rgba(255,250,250,.4);
+}
+#sheying{
+	color: #CD0000;
+}
